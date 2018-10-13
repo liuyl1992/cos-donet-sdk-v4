@@ -13,3 +13,7 @@ dotnet sdk for [腾讯云对象存储服务](http://wiki.qcloud.com/wiki/COS%E4%
 
 ## 上传、查询、删除程序示例
 请参考Demo.cs
+
+
+cos_dotnet_sdk项目支持.net4.0项目
+TencentyunCos-dotnetStandard-sdk-v2.0项目支持.netstandard;.net4.6及以上;.netcore2.0及以上
